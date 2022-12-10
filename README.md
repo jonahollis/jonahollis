@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonah Hollis.</h1>
-<h3 align="center">A passionate frontend developer from Cape Cod, MA now currently headquartered in the Greensboro--Winston-Salem--High Point area of NC.</h3>
+<h3 align="center">A passionate frontend-focused software engineer from Cape Cod, MA now currently headquartered in the Greensboro--Winston-Salem--High Point area of NC.</h3>
 <h4>With a background in management and the biological sciences, I have a unique framework that allows me to understand business needs and goals that drive methodical software development. Through this lens, I am able to create intuitive, user-friendly interfaces that drive engagement and deliver value. I am always looking for ways to improve and evolve my skills, and I am excited to bring my expertise to new challenges and opportunities.</h4>
 
 - 🌱 I’m currently learning **React, Node.js, Express, & MongoDB.**
