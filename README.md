@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonah Hollis.</h1>
-<h3 align="center">A passionate frontend developer from Cape Cod, Massachusetts now currently headquartered in the Greensboro--Winston-Salem--High Point area of NC.</h3>
+<h3 align="center">A passionate frontend developer from Cape Cod, MA now currently headquartered in the Greensboro--Winston-Salem--High Point area of NC.</h3>
 
 - 🌱 I’m currently learning **React, Node.js, Express, & MongoDB.**
 
