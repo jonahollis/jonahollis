@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonahollis&label=Profile%20views&color=0e75b6&style=flat" alt="jonahollis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonahollis" alt="jonahollis" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jonahqhollis" target="blank"><img src="https://img.shields.io/twitter/follow/jonahqhollis?logo=twitter&style=for-the-badge" alt="jonahqhollis" /></a> </p>
 
 - 🔭 I’m currently working on **building full stack web apps with social significance.**
@@ -44,3 +42,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonahollis&show_icons=true&locale=en&layout=compact" alt="jonahollis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahollis&show_icons=true&locale=en" alt="jonahollis" /></p>
+
