@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonah!</h1>
 <h3 align="center">A passionate, frontend-focused software engineer living in the Triad area of NC.</h3>
+<h5 align="center"><a href="jonah-hollis-resume.pdf">resume.pdf</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="./resume.md">resume.md</a></h5>
 
 <h4>With a background in management and the biological sciences, I have a unique framework that allows me to understand business needs and goals that drive methodical software development. Through this lens, I am able to create intuitive, user-friendly interfaces that drive engagement and deliver value. I am always looking for ways to improve and evolve my skills, and I am excited to bring my expertise to new challenges and opportunities.</h4>
 
