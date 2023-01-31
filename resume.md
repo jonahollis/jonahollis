@@ -80,7 +80,10 @@ _Design, develop, and maintain manual and technical company-wide operations._
 
 * HTML / CSS / JavaScript  
 * Node / Express / React / MongoDB
-* OOP / Web Accessibility / SEO
+* REST / JSON / API
+* OOP / Scalability
+* Unit tests / Mocha / Chai
+* UX / UI / Web Accessibility / SEO
 * Git / Version Control
-* Terminal / Bash / CMD
+* Command Line / Bash / CMD
 * Agile / Scrum methodologies
