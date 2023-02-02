@@ -2,11 +2,12 @@
 <h3 align="center">A passionate, frontend-focused software engineer living in the Triad area of NC.</h3>
 <h4 align="center"> 👉 <a href="resume.pdf">Resume.pdf</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="./resume.md">Resume.md</a> 👈 </h4>
 
-<h4>With a background in management and the biological sciences, I have a unique framework that allows me to understand business needs and goals that drive methodical software development. Through this lens, I am able to create intuitive, user-friendly interfaces that drive engagement and deliver value. I am always looking for ways to improve and evolve my skills, and I am excited to bring my expertise to new challenges and opportunities.</h4>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonahollis&label=Profile%20views&color=0e75b6&style=flat" alt="jonahollis" /> </p>
+### About Me 
+<p>During my time as a General Manager in the construction sector, I quickly realized how many different ways software can play a critical role in the success of a modern company. As a result, I made it my mission to implement systems through software that would improve my employer's metrics by increasing administrative and operational efficiency, and driving down labor errors. My efforts paid off, and I was proud to see the positive impact that technology had on the company's profitability. It was a difference in millions. However, I often found there was a scarcity in software options where there was a need across industry. That realization translated to my excitment to begin developing full stack web apps for local companies on my own time, and from there, motivated me to seek a role in a product team to help others just like my earlier self.</p>
 
-<p align="left"> <a href="https://twitter.com/jonahqhollis" target="blank"><img src="https://img.shields.io/twitter/follow/jonahqhollis?logo=twitter&style=for-the-badge" alt="jonahqhollis" /></a> </p>
+<br>
 
 - 🔭 I’m currently working on **building full stack web apps with social significance.**
 
@@ -26,6 +27,8 @@
 
 - ⚡ Fun fact **I have my B.Sc. in Environmental Science and I love to be outdoors!**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonahollis&label=Profile%20views&color=0e75b6&style=flat" alt="jonahollis" /> </p>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -43,4 +46,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonahollis&show_icons=true&locale=en&layout=compact" alt="jonahollis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonahollis&show_icons=true&locale=en" alt="jonahollis" /></p>
-
