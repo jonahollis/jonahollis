@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonah!</h1>
-<h3 align="center">A passionate, frontend-focused software engineer living in the Triad area of NC.</h3>
+<h3 align="center">Self-motivated & collaborative full-stack software engineer with a passion for frontend technologies.</h3>
 <h4 align="center"> 👉 <a href="resume.pdf">Resume.pdf</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="./resume.md">Resume.md</a> 👈 </h4>
 
 <br>
