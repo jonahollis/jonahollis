@@ -5,7 +5,7 @@
 <br>
 
 ### About Me 
-<p>During my time as a General Manager in the construction sector, I quickly realized how many different ways software can play a critical role in the success of a modern company. As a result, I made it my mission to implement systems through software that would improve my employer's metrics by increasing administrative and operational efficiency, and driving down labor errors. My efforts paid off, and I was proud to see the positive impact that technology had on the company's profitability. It was a difference in millions. However, I often found there was a scarcity in software options where there was a need across industry. That realization translated to my excitment to begin developing full stack web apps for local companies on my own time, and from there, motivated me to seek a role in a product team to help others just like my earlier self.</p>
+<p>During my time as a General Manager in the construction sector, I quickly realized how many different ways software can play a critical role in the success of a modern company. As a result, I made it my mission to implement systems through software that would improve my employer's metrics by increasing administrative and operational efficiency, and driving down labor errors. My efforts paid off, and I was proud to see the positive impact that technology had on the company's profitability. It was a difference in millions. However, I often found there was a scarcity in software options where there was a need across industry. That realization translated to my motivation to begin developing full stack web apps for local companies independently, and from there, drove me to seek a role in a product team to help others just like my earlier self.</p>
 
 <br>
 
